@@ -2,6 +2,6 @@
 
 ![](cover.png)
 
-This repo is dedicated to attempt to explain most of the concepts from this book with clean-written Python scripts. 
+This repo is dedicated to attempting to explain most of the concepts from the book **Rational Choice in an Uncertain World** with clean-written Python scripts. 
 
 Enjoy! 🐍
